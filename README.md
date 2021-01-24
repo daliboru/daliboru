@@ -36,7 +36,7 @@ Wanna know more about me? [Check out my portfolio.](https://daliborbelic.com/)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=nest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ghost-informational?style=flat&logo=ghost&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-GrapghQL-informational?style=flat&logo=graphql&logoColor=white&color=4AB197)
@@ -48,7 +48,7 @@ Wanna know more about me? [Check out my portfolio.](https://daliborbelic.com/)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Material-UI-informational?style=flat&logo=material-ui&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-MaterialUI-informational?style=flat&logo=material-ui&logoColor=white&color=4AB197)
 
 <br>
 
