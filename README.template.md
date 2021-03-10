@@ -6,10 +6,24 @@
 
 Hi there 👋
 
-Do you like jazz? I do. Never mind. I'm a full-stack developer, tech enthusiast, wannabe entrepreneur, musician; virtually a generalist.
-I'm keen on MERN Stack and the concept of hooks.
+Do you like jazz? I do. Never mind. I'm a full-stack developer, tech enthusiast, former entrepreneur, musician; virtually a generalist.
+I'm keen on MERNG Stack and the concept of hooks.
 
 Wanna know more about me? [Check out my portfolio.](https://daliborbelic.com/)
+
+## 📩 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- Pinned Repositories -- >
+
+<a href="https://github.com/daliboru/smb-client">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=daliboru&repo=smb-client&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/daliboru/tailwindcss-v2-dark-mode-template">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=daliboru&repo=smb-server&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 ## &#x1f4c8; GitHub Stats
 
