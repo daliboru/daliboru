@@ -14,6 +14,7 @@ Wanna know more about me? [Check out my portfolio.](https://daliborbelic.com/)
 ## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 neat JavaScript tips](https://dev.to/daliboru/5-neat-javascript-tips-284o)
 - [How to send emails from a form in React (EmailJS)](https://dev.to/daliboru/how-to-send-emails-from-a-form-in-react-emailjs-27d1)
 <!-- BLOG-POST-LIST:END -->
 
