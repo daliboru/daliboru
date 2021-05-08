@@ -14,6 +14,7 @@ Wanna know more about me? [Check out my website.](https://daliborbelic.com/)
 ## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cool syntax #1 | Optional chaining](https://dev.to/daliboru/cool-syntax-1-optional-chaining-3410)
 - [JavaScript Promises 101](https://dev.to/daliboru/javascript-promises-101-3h56)
 - [What is GraphQL?](https://dev.to/daliboru/what-is-graphql-2031)
 - [5 neat JavaScript tips](https://dev.to/daliboru/5-neat-javascript-tips-284o)
