@@ -6,7 +6,7 @@
 
 Hi there 👋
 
-Do you like jazz? I do. Never mind. I'm a full-stack developer, tech enthusiast, former entrepreneur, musician; virtually a generalist.
+Do you like jazz? I do. Never mind. I'm a full-stack developer, tech enthusiast, entrepreneur, musician; virtually a generalist.
 I'm keen on MERNG Stack and the concept of hooks.
 
 Wanna know more about me? [Check out my website.](https://daliborbelic.com/)
