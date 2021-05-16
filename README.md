@@ -14,11 +14,10 @@ Wanna know more about me? [Check out my website.](https://daliborbelic.com/)
 ## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cool syntax #1 | Optional chaining](https://dev.to/daliboru/cool-syntax-1-optional-chaining-3410)
-- [JavaScript Promises 101](https://dev.to/daliboru/javascript-promises-101-3h56)
-- [What is GraphQL?](https://dev.to/daliboru/what-is-graphql-2031)
-- [5 neat JavaScript tips](https://dev.to/daliboru/5-neat-javascript-tips-284o)
-- [How to send emails from a form in React (EmailJS)](https://dev.to/daliboru/how-to-send-emails-from-a-form-in-react-emailjs-27d1)
+- [Cool syntax #1 | Optional chaining](https://blog.daliborbelic.com/cool-syntax-1-or-optional-chaining)
+- [JavaScript Promises 101](https://blog.daliborbelic.com/javascript-promises-101)
+- [What is GraphQL?](https://blog.daliborbelic.com/what-is-graphql)
+- [5 neat JavaScript tips](https://blog.daliborbelic.com/5-neat-javascript-tips)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Pinned Repositories
