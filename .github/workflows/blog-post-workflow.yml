@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest  log post workflow
 on:
   schedule: # Run workflow automatically
     # This will make it run every hour
@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # Replace this URL with your rss feed URL/s
-          feed_list: "https://dev.to/feed/daliboru"
+          feed_list: "https://blog.daliborbelic.com/rss.xml"
