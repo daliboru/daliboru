@@ -14,10 +14,10 @@ Wanna know more about me? [Check out my website.](https://daliborbelic.com/)
 ## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 ways to centre a <div> + life advice](https://blog.daliborbelic.com/3-ways-to-centre-a-lessdivgreater-life-advice)
 - [Cool syntax #1 | Optional chaining](https://blog.daliborbelic.com/cool-syntax-1-or-optional-chaining)
 - [JavaScript Promises 101](https://blog.daliborbelic.com/javascript-promises-101)
 - [What is GraphQL?](https://blog.daliborbelic.com/what-is-graphql)
-- [5 neat JavaScript tips](https://blog.daliborbelic.com/5-neat-javascript-tips)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Pinned Repositories
