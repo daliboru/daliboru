@@ -13,10 +13,10 @@ Wanna know more about me? [Check out my website.](https://daliborbelic.com/)
 ## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Custom React + TailwindCSS Calendar](https://blog.daliborbelic.com/custom-react-tailwindcss-calendar)
 - [Building Backend | Node, Postgres, GraphQL](https://blog.daliborbelic.com/building-backend-or-node-postgres-graphql)
 - [3 ways to centre a div + life advice](https://blog.daliborbelic.com/3-ways-to-centre-a-div-life-advice)
 - [Cool syntax #1 | Optional chaining](https://blog.daliborbelic.com/cool-syntax-1-or-optional-chaining)
-- [JavaScript Promises 101](https://blog.daliborbelic.com/javascript-promises-101)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Pinned Repositories
