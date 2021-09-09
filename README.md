@@ -4,9 +4,11 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/daliborbelic/)
 [![Behance Badge](https://img.shields.io/badge/Behance-Profile-informational?style=flat&logo=behance&logoColor=white&color=black)](https://www.behance.net/daliboru)
 
-Hi there 👋
+🚨 Currently open for new full-stack opportunities 🚨
 
-Do you like jazz? I do. Never mind. I'm a full-stack developer, tech enthusiast, entrepreneur (intrapreneur), musician; virtually a generalist. I'm keen on React, Node, Postgres and GraphQL. Additionally, from time to time, I publish a dev-related text on my blog, check it out!
+Do you like jazz? I do. Never mind. I'm a T-shaped full-stack developer with specialised expertise in React who believes in transparency, constant improvement, and building products with love. I'm also a tech enthusiast, entrepreneur (intrapreneur), musician, virtually a generalist.
+
+Make sure you check out my blog as well!
 
 Wanna know more about me? [Check out my website.](https://daliborbelic.com/)
 
