@@ -4,9 +4,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/daliborbelic/)
 [![Behance Badge](https://img.shields.io/badge/Behance-Profile-informational?style=flat&logo=behance&logoColor=white&color=black)](https://www.behance.net/daliboru)
 
-🚨 Currently open for new full-stack opportunities 🚨
+Do you like jazz? I do. Never mind. I'm a T-shaped developer specialised in JavaScript who believes in transparency, constant improvement, and building products with love. I'm also a tech enthusiast, entrepreneur (intrapreneur), musician, virtually a generalist.
 
-Do you like jazz? I do. Never mind. I'm a T-shaped full-stack developer with specialised expertise in React who believes in transparency, constant improvement, and building products with love. I'm also a tech enthusiast, entrepreneur (intrapreneur), musician, virtually a generalist.
+Top skills: React, GraphQL, PostgreSQL, Node, TypeScript
 
 Make sure you check out my blog as well!
 
