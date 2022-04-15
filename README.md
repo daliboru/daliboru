@@ -1,12 +1,9 @@
-[![Dalibor's GitHub Banner](./assets/githubBackground.png)](https://daliborbelic.com)
-
 [![Visits Badge](https://badges.pufler.dev/visits/daliboru/daliboru)](https://www.daliborbelic.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/daliborbelic/)
-[![Behance Badge](https://img.shields.io/badge/Behance-Profile-informational?style=flat&logo=behance&logoColor=white&color=black)](https://www.behance.net/daliboru)
 
 Do you like jazz? I do. Never mind. I'm a T-shaped developer specialised in JavaScript who believes in transparency, constant improvement, and building products with love. I'm also a tech enthusiast, entrepreneur (intrapreneur), musician, virtually a generalist.
 
-Top skills: React, GraphQL, PostgreSQL, Node, TypeScript
+Top tech skills: React Native, TypeScript, NodeJS
 
 Make sure you check out my blog as well!
 
