@@ -1,4 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/daliboru/daliboru)](https://www.daliborbelic.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/daliborbelic/)
 
 Do you like jazz? I do. Never mind. I'm a T-shaped developer specialised in JavaScript who believes in transparency, constant improvement, and building products with love. I'm also a tech enthusiast, entrepreneur (intrapreneur), musician, virtually a generalist.
