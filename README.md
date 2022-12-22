@@ -1,8 +1,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/daliborbelic/)
 
-Do you like jazz? I do. Never mind. I'm a T-shaped developer specialised in JavaScript who believes in transparency, constant improvement, and building products with love. I'm also a tech enthusiast, entrepreneur (intrapreneur), musician, virtually a generalist.
+I am a software developer who values transparency, continuous improvement and creating products with care and dedication. My approach to development focuses on finding solutions to problems rather than simply adding new features. I also tend to over-architect and underbuild (I’m hoping for the best but planning for the worst). As a software developer, my goal is to be proficient in a wide range of technologies and not be limited to any specific stack or framework. That being said, I have the most experience working with React, React Native, and Node.js.
 
-Top tech skills: React Native, TypeScript, NodeJS
+I have a strong interest in extreme programming (XP) and test-driven development (TDD) because I believe these tools lead to the most durable and cost-effective solutions.
 
 Make sure you check out my blog as well!
 
