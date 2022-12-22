@@ -11,10 +11,10 @@ Wanna know more about me? [Check out my website.](https://daliborbelic.com/)
 ## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On naming things](https://blog.daliborbelic.com/on-naming-things)
+- [Agile as a fake exhaust](https://blog.daliborbelic.com/agile-as-a-fake-exhaust)
 - [React &amp; keys 🔑🔑🔑](https://blog.daliborbelic.com/react-and-keys)
 - [Custom React + TailwindCSS Calendar Component](https://blog.daliborbelic.com/custom-react-tailwindcss-calendar-component)
-- [Building Backend | Node, Postgres, GraphQL](https://blog.daliborbelic.com/building-backend-or-node-postgres-graphql)
-- [3 ways to centre a div + life advice](https://blog.daliborbelic.com/3-ways-to-centre-a-div-life-advice)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Pinned Repositories
