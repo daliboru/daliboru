@@ -6,8 +6,6 @@ I have a strong interest in extreme programming (XP) and test-driven development
 
 Make sure you check out my blog as well!
 
-Wanna know more about me? [Check out my website.](https://daliborbelic.com/)
-
 ## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
