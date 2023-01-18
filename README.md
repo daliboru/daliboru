@@ -15,26 +15,4 @@ Make sure you check out my blog as well!
 - [Custom React + TailwindCSS Calendar Component](https://blog.daliborbelic.com/custom-react-tailwindcss-calendar-component)
 <!-- BLOG-POST-LIST:END -->
 
-## 📌 Pinned Repositories
-
-<a href="https://github.com/daliboru/calendar">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=daliboru&repo=calendar&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/daliboru/smb-server">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=daliboru&repo=smb-server&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/daliboru/psgs">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=daliboru&repo=psgs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/daliboru">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=daliboru&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
-</a>
-
-<br>
-
 
