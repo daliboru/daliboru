@@ -9,10 +9,10 @@ Make sure you check out my blog as well!
 ## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing Critical Thinking in Software Development](https://blog.daliborbelic.com/unleashing-critical-thinking-in-software-development)
 - [On naming things](https://blog.daliborbelic.com/on-naming-things)
 - [Agile as a fake exhaust](https://blog.daliborbelic.com/agile-as-a-fake-exhaust)
 - [React &amp; keys 🔑🔑🔑](https://blog.daliborbelic.com/react-and-keys)
-- [Custom React + TailwindCSS Calendar Component](https://blog.daliborbelic.com/custom-react-tailwindcss-calendar-component)
 <!-- BLOG-POST-LIST:END -->
 
 
