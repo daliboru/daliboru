@@ -1,8 +1,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/daliborbelic/)
 
-I am a software developer who values transparency, continuous improvement and creating products with care and dedication. My approach to development focuses on finding solutions to problems rather than simply adding new features. I also tend to over-architect and underbuild (I’m hoping for the best but planning for the worst). As a software developer, my goal is to be proficient in a wide range of technologies and not be limited to any specific stack or framework. That being said, I have the most experience working with React, React Native, and Node.js.
-
-I have a strong interest in extreme programming (XP) and test-driven development (TDD) because I believe these tools lead to the most durable and cost-effective solutions.
+Dalibor is a seasoned software craftsman who values transparency, continuous improvement and making products with care and dedication. He has built dozens of web/mobile apps and helped establish companies. His most frequently used tools for creating web/mobile applications are AI, React Native, Nest and AWS. He believes that the goal of software engineering is to solve problems, not just to add new features.
 
 Make sure you check out my blog as well!
 
