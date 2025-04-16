@@ -1,6 +1,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/daliborbelic/)
 
-Dalibor is a seasoned software craftsman who values transparency, continuous improvement and making products with care and dedication. He has built dozens of web/mobile apps and helped establish a few companies. His uniqueness lies in a combination of product development and software development skills. The goal of software development is to solve problems, not merely to add new features.
+TLDR: I love to optimise and build startups.
+
+Dalibor has a diverse background in product management and full-stack development, with significant experience leading cross-functional teams and launching successful products. 
+
+At the beginning of his career, as the founder of Kulturni Automat +, Dalibor scaled a startup and drove innovative solutions in the cultural sector. Later, in other positions, he managed product development, implemented *true* Agile methodologies, and delivered user-centric platforms. His expertise spans strategic planning, market research, and continuous integration, consistently aligning product outcomes with business objectives.
 
 Make sure you check out my blog as well!
 
